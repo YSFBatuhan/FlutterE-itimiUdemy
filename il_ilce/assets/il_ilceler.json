@@ -1,0 +1,227 @@
+{
+    "01": {
+        "name": "İstanbul",
+        "population": 15605000,
+        "districts": {
+            "01_01": {
+                "name": "Beşiktaş"
+            },
+            "01_02": {
+                "name": "Kadıköy"
+            },
+            "01_03": {
+                "name": "Şişli"
+            }
+        }
+    },
+    "02": {
+        "name": "Ankara",
+        "population": 5635000,
+        "districts": {
+            "02_01": {
+                "name": "Çankaya"
+            },
+            "02_02": {
+                "name": "Keçiören"
+            },
+            "02_03": {
+                "name": "Yenimahalle"
+            }
+        }
+    },
+    "03": {
+        "name": "İzmir",
+        "population": 4536000,
+        "districts": {
+            "03_01": {
+                "name": "Konak"
+            },
+            "03_02": {
+                "name": "Karşıyaka"
+            },
+            "03_03": {
+                "name": "Bornova"
+            }
+        }
+    },
+    "04": {
+        "name": "Bursa",
+        "population": 3382000,
+        "districts": {
+            "04_01": {
+                "name": "Osmangazi"
+            },
+            "04_02": {
+                "name": "Yıldırım"
+            },
+            "04_03": {
+                "name": "Nilüfer"
+            }
+        }
+    },
+    "05": {
+        "name": "Antalya",
+        "population": 2588000,
+        "districts": {
+            "05_01": {
+                "name": "Muratpaşa"
+            },
+            "05_02": {
+                "name": "Konyaaltı"
+            },
+            "05_03": {
+                "name": "Kepez"
+            }
+        }
+    },
+    "06": {
+        "name": "Adana",
+        "population": 2353000,
+        "districts": {
+            "06_01": {
+                "name": "Seyhan"
+            },
+            "06_02": {
+                "name": "Yüreğir"
+            },
+            "06_03": {
+                "name": "Çukurova"
+            }
+        }
+    },
+    "07": {
+        "name": "Gaziantep",
+        "population": 2337000,
+        "districts": {
+            "07_01": {
+                "name": "Şahinbey"
+            },
+            "07_02": {
+                "name": "Şehitkamil"
+            },
+            "07_03": {
+                "name": "Şehitkadesi"
+            }
+        }
+    },
+    "08": {
+        "name": "Konya",
+        "population": 2316000,
+        "districts": {
+            "08_01": {
+                "name": "Meram"
+            },
+            "08_02": {
+                "name": "Selçuklu"
+            },
+            "08_03": {
+                "name": "Karatay"
+            }
+        }
+    },
+    "09": {
+        "name": "Mersin",
+        "population": 1896000,
+        "districts": {
+            "09_01": {
+                "name": "Akdeniz"
+            },
+            "09_02": {
+                "name": "Toroslar"
+            },
+            "09_03": {
+                "name": "Mezitli"
+            }
+        }
+    },
+    "10": {
+        "name": "Diyarbakır",
+        "population": 1883000,
+        "districts": {
+            "10_01": {
+                "name": "Sur"
+            },
+            "10_02": {
+                "name": "Kayapınar"
+            },
+            "10_03": {
+                "name": "Yenişehir"
+            }
+        }
+    },
+    "11": {
+        "name": "Kocaeli",
+        "population": 1965000,
+        "districts": {
+            "11_01": {
+                "name": "İzmit"
+            },
+            "11_02": {
+                "name": "Kartepe"
+            },
+            "11_03": {
+                "name": "Derince"
+            }
+        }
+    },
+    "12": {
+        "name": "Tekirdağ",
+        "population": 950000,
+        "districts": {
+            "12_01": {
+                "name": "Süleymanpaşa"
+            },
+            "12_02": {
+                "name": "Çerkezköy"
+            },
+            "12_03": {
+                "name": "Kapaklı"
+            }
+        }
+    },
+    "13": {
+        "name": "Samsun",
+        "population": 716000,
+        "districts": {
+            "13_01": {
+                "name": "Atakum"
+            },
+            "13_02": {
+                "name": "Canik"
+            },
+            "13_03": {
+                "name": "Samsun Merkez"
+            }
+        }
+    },
+    "14": {
+        "name": "Malatya",
+        "population": 835000,
+        "districts": {
+            "14_01": {
+                "name": "Battalgazi"
+            },
+            "14_02": {
+                "name": "Yeşilyurt"
+            },
+            "14_03": {
+                "name": "Hekimhan"
+            }
+        }
+    },
+    "15": {
+        "name": "Elazığ",
+        "population": 635000,
+        "districts": {
+            "15_01": {
+                "name": "Merkez"
+            },
+            "15_02": {
+                "name": "Ağın"
+            },
+            "15_03": {
+                "name": "Keban"
+            }
+        }
+    }
+}
